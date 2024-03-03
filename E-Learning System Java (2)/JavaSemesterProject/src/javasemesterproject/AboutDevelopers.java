@@ -32,7 +32,8 @@ public class AboutDevelopers extends JFrame{
         
         String[][] rowData = {{"01", "Agyei Clement", "<html>Project Lead and UI Designer<html>"},
         {"02", "Joseph Baffuor", "<html>Frontend Developer<html>"},
-        {"03", "Nathaniel Afriyie", "<html>Backend Developer<html>"}};
+        {"03", "Nathaniel Afriyie", "<html>Backend Developer<html>"},
+        {"04", "Bright Kekeli Amuzu", "<html>Public Relations & Advocacy Head<html>"},
         String columns[] = {"ID", "Name", "Contributions"};
         
         tablePanel = new JPanel(new BorderLayout());
