@@ -1,4 +1,4 @@
-![ER_Diagram](https://github.com/agyeiclement377/E-Learning-System-Java-GUI-Application/assets/159913676/e4e33d89-c984-48ad-8d76-b124c7653120)# **E-Learning System**
+
 
 **How to run the Project:**
 1. Clone this repo using 
