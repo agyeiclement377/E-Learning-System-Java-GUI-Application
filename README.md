@@ -1,4 +1,4 @@
-# **E-Learning System**
+![ER_Diagram](https://github.com/agyeiclement377/E-Learning-System-Java-GUI-Application/assets/159913676/e4e33d89-c984-48ad-8d76-b124c7653120)# **E-Learning System**
 
 **How to run the Project:**
 1. Clone this repo using 
@@ -58,14 +58,16 @@ It helps produce database systems:<br>
 **Architecture Description** <br>
 The design of a DBMS depends on its architecture. It can be centralized or decentralized or hierarchical. The architecture of a DBMS can be seen as either single tier or multi-tier.<br><br>
 **ER Diagram**
-![image.png](diagrams/ER_Diagram.jpg)
+![ER_Diagram](https://github.com/agyeiclement377/E-Learning-System-Java-GUI-Application/assets/159913676/66b73c83-8713-429f-9129-4247758bbd2d)
+
 
 Fig 1: ER Diagram <br><br>
 An entity–relationship model describes interrelated things of interest in a specific domain of knowledge (Refer Fig 1). It is composed of entity types and specifies relationships that can exist between instances of those entity types.
 
 **Relational Schema Diagram**
 
-![image_1.png](diagrams/Relatoinal_Schema.jpg)
+![Relatoinal_Schema](https://github.com/agyeiclement377/E-Learning-System-Java-GUI-Application/assets/159913676/a294f0dd-e4f4-4492-8aa7-85a65d045c03)
+
 
  Fig 2: Relational Schema <br><br>
 Relational schema is a collection of meta-data. Database schema describes the structure and constraints of data representing in a particular domain (Refer Fig 2).
