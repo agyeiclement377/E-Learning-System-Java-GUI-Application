@@ -15,7 +15,7 @@
  ```
  note: Super admin can add new admins
  
- # Demo <br>
+ # E-LEARNING SYSTEM DEMO <br>
 
 
 
