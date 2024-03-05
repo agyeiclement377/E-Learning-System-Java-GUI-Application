@@ -19,9 +19,11 @@
 
 
 [
+https://github.com/agyeiclement377/E-Learning-System-Java-GUI-Application/assets/159913676/8a25f2a4-d710-47e4-b85d-2c2756e3783e
 
 
-https://youtu.be/pYyK-vBVCdo?si=fcffHf69w3WhgrI3
+
+
 
 
 
